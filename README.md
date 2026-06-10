@@ -1,4 +1,4 @@
-# Hi there </b><img src="https://giphy.com/gifs/disgusted-homelander-theboys-XRHZOQHd8dym7jKLMV" width="35">, my name is Denki.
+# Hi there </b><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmc1YW82YXZjOTJrN3A3aTJ2NXE0dHc3enl5MGYyZTJiaWN6dzh4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XRHZOQHd8dym7jKLMV/giphy.gif" width="35">, my name is Denki.
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=Green&size=25&center=true&vCenter=true&width=600&height=100&lines=H3110+&hearts;++;Cybersecurity+Student;CTF+at+spare+time,;Love+to+learn+new+stuffs..<3"></a>
